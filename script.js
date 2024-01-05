@@ -136,7 +136,7 @@ btnPosaljiOdgovore.value = 'Pošalji odgovore';
 let btnNovaPitanja = document.createElement('input');
 btnNovaPitanja.type = 'submit';
 btnNovaPitanja.value = 'Nova pitanja';
-btnNovaPitanja.style.marginLeft = '10px';
+btnNovaPitanja.style.marginLeft = '5px';
 
 forma.appendChild(btnPosaljiOdgovore);
 forma.appendChild(btnNovaPitanja);
