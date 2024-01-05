@@ -53,3 +53,10 @@ input[type='submit'] {
     border-radius: 5px;
     padding: 5px;
 }
+
+@media screen, (max-width: 386px) {
+    input[value='Nova pitanja'] {
+        margin-left: 5px !important;
+        margin-top: 0 !important;
+    }
+}
